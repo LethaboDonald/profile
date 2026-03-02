@@ -11,7 +11,9 @@ header#siteheader {
   height:150px;
   background-image:linear-gradient(grenyellow, cyan,teal);
   border:1px solid darkgrey;
-  border-radius:5px; 10px 0 0;}
+  border-radius:5px; 10px 0 0;
+  padding: 20px;
+}
   
 /*styling site title*/
   h1#sitetitle {
