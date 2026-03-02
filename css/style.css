@@ -13,6 +13,7 @@ header#siteheader {
   border:1px solid darkgrey;
   border-radius:5px; 10px 0 0;
   padding: 20px;
+  text-align: center;
 }
   
 /*styling site title*/
