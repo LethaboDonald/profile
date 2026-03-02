@@ -20,7 +20,15 @@ header#siteheader {
   h1#sitetitle {
     font-family: Arial;
     font-size: 32px;
-    color: orange;
-  }
+    color: orange;}
+
+/*site motto*/
+span#sitemotto {
+  font-size: 18px;
+  font-family:tahoma;
+  font-style: italic;
+  color: aqua;
+  text-align: center;
+}
 
 
